@@ -1,5 +1,8 @@
 # ucite
 Micro Citation Maker
+Copyright © 2015 Sean Mahan
+
+This program is released under the "GPL 3.0" License.
 
 Have you ever read a meme with a fact on it and wondered if it was true? Do you hate having to dig through the interwebs just to verify a statement a meme makes? Well with Micro Citation maker you can create a tiny url style link to your very own citation page.
 
